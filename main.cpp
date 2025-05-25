@@ -1,5 +1,5 @@
 // g++ -Iinclude -Llib src/*.cpp main.cpp -lsqlite3 -o stock_simulator
-
+//hello
 #include <iostream>
 #include <fstream>
 #include <map> 
