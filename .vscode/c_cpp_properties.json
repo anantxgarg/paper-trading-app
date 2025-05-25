@@ -1,0 +1,25 @@
+{
+    "configurations": [
+      {
+        "name": "MSYS2",
+        "compilerPath": "C:\\msys64\\mingw64\\bin\\g++.exe",  // Update path to MSYS2's g++
+        "cStandard": "c11",
+        "cppStandard": "c++17",  // Or whichever version you're using
+        "intelliSenseMode": "windows-gcc-x64",
+        "includePath": [
+          "C:\\msys64\\mingw64\\include",
+          "C:\\msys64\\usr\\include"
+        ],
+        "defines": [],
+        "browse": {
+          "path": [
+            "C:\\msys64\\mingw64\\include",
+            "C:\\msys64\\usr\\include"
+          ],
+          "limitSymbolsToIncludedHeaders": true
+        }
+      }
+    ],
+    "version": 4
+  }
+  
