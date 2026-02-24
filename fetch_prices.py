@@ -2,7 +2,7 @@ from alpha_vantage.timeseries import TimeSeries
 import sqlite3
 import time
 
-API_KEY = 'L10S0WZHSNAA0OV7'  # Replace with your real key
+API_KEY = 'key'  # Replace with your real key
 symbols = ['AAPL', 'TSLA', 'GOOGL']
 prices = {}
 
